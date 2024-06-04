@@ -114,7 +114,12 @@ button:hover {
         text-align: center;
     }
     .svg{
+        width: 90%;
+        height: 45vh;
+    }
+    p{
         width: 85%;
+        margin: 0 auto;
     }
     .cliente{
         display: flex;
